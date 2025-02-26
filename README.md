@@ -1,4 +1,4 @@
-# TG Desenvolvimento de Sistemas II - Grupo TechMack  
+# TG Desenvolvimento de Sistemas II - Grupo TechMack 💻 
 
 ## 📌 Sobre o Repositório  
 
